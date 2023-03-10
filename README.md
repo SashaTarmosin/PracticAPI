@@ -9,7 +9,6 @@ This is for PracticAPI
   
   ### - [Second task](https://github.com/SashaTarmosin/PracticAPI/tree/main/BackendApiWithControllers/Backendapi)<br>
   
-
   ### - [Скрипт БД](https://github.com/SashaTarmosin/PracticAPI/blob/main/DevelopingDataBase/bd.sql) <br> 
   #### Проектирование и создание БД
   ![визуализация](https://user-images.githubusercontent.com/124984509/224294032-8fae953d-4cfb-46e7-a6d8-52adc854a4f3.png)
