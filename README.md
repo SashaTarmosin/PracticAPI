@@ -5,7 +5,7 @@ This is for PracticAPI
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 [Первое задание](https://github.com/SashaTarmosin/PracticAPI/tree/main/Backendapi)<br>
 [Второе задание](https://github.com/SashaTarmosin/PracticAPI/tree/main/BackendApiWithControllers/Backendapi)<br>
-[Третье задание][визуализация](https://user-images.githubusercontent.com/124984509/224289731-2fd4c418-3715-4951-a824-651f6d7d2589.png)<br>
+[Третье задание](https://user-images.githubusercontent.com/124984509/224289731-2fd4c418-3715-4951-a824-651f6d7d2589.png)<br>
 
 [Четвертое задание](https://github.com/SashaTarmosin/PracticAPI/tree/main/DevelopingDataBase)
 
