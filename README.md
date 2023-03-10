@@ -5,9 +5,9 @@ This is for PracticAPI
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
  
 
-  ### - [First task](https://github.com/SashaTarmosin/PracticAPI/tree/main/Backendapi)<br>
+  ### - [Первое задание](https://github.com/SashaTarmosin/PracticAPI/tree/main/Backendapi)<br>
   
-  ### - [Second task](https://github.com/SashaTarmosin/PracticAPI/tree/main/BackendApiWithControllers/Backendapi)<br>
+  ### - [Второе задание ](https://github.com/SashaTarmosin/PracticAPI/tree/main/BackendApiWithControllers/Backendapi)<br>
   
   ### - [Скрипт БД](https://github.com/SashaTarmosin/PracticAPI/blob/main/DevelopingDataBase/bd.sql) <br> 
   #### Проектирование и создание БД
