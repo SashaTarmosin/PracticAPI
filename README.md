@@ -20,7 +20,7 @@ This is for PracticAPI
 ![Снимок](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/03a20ae0-3433-4809-84fa-92e5a0c78a67)
 ### - [Шестое задание (архив)](https://github.com/SashaTarmosin/PracticAPI/blob/main/Task6.rar)<br>
 ![2](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/89a8a659-14ee-44d9-89cc-decfe51dc2c4)
-![Uploading 1.PNG…]()
+
 
 
 
