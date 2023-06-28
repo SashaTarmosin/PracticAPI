@@ -22,6 +22,8 @@ This is for PracticAPI
 ![2](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/89a8a659-14ee-44d9-89cc-decfe51dc2c4)
 ### - [Cедьмое задание (архив)](https://github.com/SashaTarmosin/PracticAPI/blob/main/7%20Task.rar)<br>
 ![71](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/511c3211-cb1f-4ae0-9be9-71f5ae1b1bf4)
+![yml](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/d416136f-3b02-4c3c-985a-063f017fac9c)
+
 
 
 
