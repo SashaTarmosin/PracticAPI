@@ -25,11 +25,11 @@ This is for PracticAPI
 ### - [Cедьмое задание (архив)](https://github.com/SashaTarmosin/PracticAPI/blob/main/7%20Task.rar)<br>
 ![71](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/511c3211-cb1f-4ae0-9be9-71f5ae1b1bf4)
 ![yml](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/d416136f-3b02-4c3c-985a-063f017fac9c)
-### - [Восмьое задание (архив)] (https://github.com/SashaTarmosin/PracticAPI/blob/main/Task%208.rar)<br>
-![Uploading 81.PNG…]()
-![82](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/53ab2401-95a6-4c74-b0c7-adc94ebf35ff)
-![83](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/56b8e466-66fd-470a-982d-6593dbc3ada6)
-![84](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/f98b97df-a4d0-4658-a9d4-ccf453b33ac9)
+### - [Восмьое задание (архив)](https://github.com/SashaTarmosin/PracticAPI/blob/main/Task%208.rar)<br>
+![81](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/b588b702-dce7-4445-b420-771246f6bbe5)
+![82](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/7509c0e9-ef75-4d32-8ead-55fc8e5426f1)
+![83](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/c64f9a50-69b3-4373-b955-2c3477d35e6a)
+![84](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/1df0ab5a-9505-4d1f-94b5-e71b7b03d1ad)
 
 
 
