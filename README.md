@@ -1,3 +1,5 @@
+![84](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/38fd700a-97fa-444c-a738-7e892fc59e7e)
+![81](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/9cbdbd4b-92b0-4b5a-a27b-29dfea59d7aa)
 # PracticAPI
 This is for PracticAPI
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">SuperSanek</a> 
@@ -23,6 +25,12 @@ This is for PracticAPI
 ### - [Cедьмое задание (архив)](https://github.com/SashaTarmosin/PracticAPI/blob/main/7%20Task.rar)<br>
 ![71](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/511c3211-cb1f-4ae0-9be9-71f5ae1b1bf4)
 ![yml](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/d416136f-3b02-4c3c-985a-063f017fac9c)
+### - [Восмьое задание (архив)] (https://github.com/SashaTarmosin/PracticAPI/blob/main/Task%208.rar)<br>
+![Uploading 81.PNG…]()
+![82](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/53ab2401-95a6-4c74-b0c7-adc94ebf35ff)
+![83](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/56b8e466-66fd-470a-982d-6593dbc3ada6)
+![84](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/f98b97df-a4d0-4658-a9d4-ccf453b33ac9)
+
 
 
 
