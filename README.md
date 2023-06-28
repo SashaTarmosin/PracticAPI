@@ -1,5 +1,3 @@
-![84](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/38fd700a-97fa-444c-a738-7e892fc59e7e)
-![81](https://github.com/SashaTarmosin/PracticAPI/assets/124984509/9cbdbd4b-92b0-4b5a-a27b-29dfea59d7aa)
 # PracticAPI
 This is for PracticAPI
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">SuperSanek</a> 
